@@ -1,0 +1,2 @@
+which run_test.sh
+which run_mtblisa.py
