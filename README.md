@@ -1,6 +1,6 @@
 ![Logo](isa-api_logo.png)
 
-# mtblisa: ISA-Tab slicer
+# ISA-Tab slicer
 Version: 0.9.5
 
 ## Short Description
